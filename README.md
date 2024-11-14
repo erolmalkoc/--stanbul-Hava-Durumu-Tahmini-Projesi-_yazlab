@@ -7,3 +7,22 @@ Bu projede kullanılan araçlar ve kütüphaneler aşağıda sıralanmıştır:
 Selenium: Web scraping için kullanıldı. Dinamik web sayfalarından veri çekmek için Python ile entegre edildi.
 Python: Veri işleme ve modelleme işlemleri için kullanıldı. Pandas, NumPy, Matplotlib ve Seaborn gibi kütüphanelerle veri analizi yapıldı.
 Excel: Verilerin saklanması ve görselleştirilmesi için kullanıldı.
+
+##2. Geliştirme Ortamı
+Bu projede kullanılan araçlar ve kütüphaneler aşağıda sıralanmıştır:
+
+Selenium: Web scraping için kullanıldı. Dinamik web sayfalarından veri çekmek için Python ile entegre edildi.
+Python: Veri işleme ve modelleme işlemleri için kullanıldı. Pandas, NumPy, Matplotlib ve Seaborn gibi kütüphanelerle veri analizi yapıldı.
+Excel: Verilerin saklanması ve görselleştirilmesi için kullanıldı.
+Kullanılan Kütüphaneler:
+Selenium WebDriver
+Pandas
+NumPy
+Matplotlib
+Seaborn
+OpenWeather API (veri toplama için)
+
+
+##4. Geliştirilen Arayüzün Örnek Görseli
+
+![zamanserisigrafik](https://github.com/user-attachments/assets/03bb45a7-e29e-4561-b5d4-2044ddb5ac71)
