@@ -35,6 +35,7 @@ Bu grafikler, verinin geçmişteki davranışlarını anlamamıza ve gelecekteki
 
 ![zamanserisigrafik](https://github.com/user-attachments/assets/03bb45a7-e29e-4561-b5d4-2044ddb5ac71)
 
+
 ## 5.Kaynakça
 https://www.selenium.dev/documentation/ 
 
