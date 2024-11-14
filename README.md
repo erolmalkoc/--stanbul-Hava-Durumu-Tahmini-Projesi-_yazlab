@@ -31,6 +31,6 @@ Mevsimsellik Grafik: Verinin belirli dönemlerdeki (örneğin yaz, kış) deği�
 Tahmin Grafiği: Gelecekteki hava durumu değerlerinin tahmin edildiği grafikler oluşturuldu.
 Bu grafikler, verinin geçmişteki davranışlarını anlamamıza ve gelecekteki tahminleri yapmamıza olanak tanımaktadır.
 
-##4. Geliştirilen Arayüzün Örnek Görseli
+##4. Geliştirilen Zaman serisi Grafik
 
 ![zamanserisigrafik](https://github.com/user-attachments/assets/03bb45a7-e29e-4561-b5d4-2044ddb5ac71)
