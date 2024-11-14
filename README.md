@@ -34,3 +34,16 @@ Bu grafikler, verinin geçmişteki davranışlarını anlamamıza ve gelecekteki
 ## 4. Geliştirilen Zaman serisi Grafik
 
 ![zamanserisigrafik](https://github.com/user-attachments/assets/03bb45a7-e29e-4561-b5d4-2044ddb5ac71)
+
+## 5.Kaynakça
+https://www.selenium.dev/documentation/
+https://medium.com/kodluyoruz/selenium-webdriver-ile-test-senaryosu-107ad1f99229
+https://muhammedtalhacevik.medium.com/temel-selenium-komutlar%C4%B1-ve-i%CC%87%C5%9Flevleri-web-otomasyonunun-temelleri-a6be9066f64d
+https://www.w3schools.com/python/pandas/default.asp
+https://www-browserstack-com.translate.goog/guide/python-selenium-to-run-web-automation-test?_x_tr_sl=en&_x_tr_tl=tr&_x_tr_hl=tr&_x_tr_pto=wa
+https://meteostat.net/en/
+https://selenium-python.readthedocs.io/waits.html 
+https://mvnrepository.com/
+https://www.w3schools.com/python/numpy/numpy_intro.asp
+https://dev.to/aciklab/rest-api-e26 
+https://towardsdatascience.com/how-to-use-selenium-to-web-scrape-with-example-80f9b23a843a?gi=50b438f27bbc 
