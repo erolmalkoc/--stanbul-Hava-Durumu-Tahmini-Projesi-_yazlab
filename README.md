@@ -7,11 +7,17 @@ Bu projede, İstanbul'un hava durumu tahminlerini yapmak amacıyla yapay zeka ku
 Bu projede kullanılan araçlar ve kütüphaneler aşağıda listelenmiştir:
 
 Selenium: Dinamik web sayfalarından veri çekmek için kullanıldı. Python ile entegre edilerek, Meteostat veritabanından hava durumu verileri otomatik olarak alındı.
-Python: Veri işleme ve modelleme işlemleri için kullanıldı. Aşağıdaki kütüphanelerle veri analizi ve modelleme gerçekleştirildi:
+
+Python: Veri işleme ve modelleme işlemleri için kullanıldı. Aşağıdaki kütüphanelerle veri analizi ve modelleme gerçekleştirildi
+
 Pandas: Verilerin işlenmesi, temizlenmesi ve analiz edilmesi için kullanıldı.
+
 NumPy: Veri analizi ve hesaplama için kullanıldı.
+
 Matplotlib & Seaborn: Verilerin görselleştirilmesi ve analiz sonuçlarının grafiklerle sunulması için kullanıldı.
+
 Zaman Serisi Analizi: Veriler zaman dilimlerine göre incelendi, trend ve mevsimsellik analizleri yapıldı, tahminler için model oluşturuldu.
+
 Excel: Verilerin saklanması, görselleştirilmesi ve detaylı analizlerin yapılması için kullanıldı.
 Kullanılan Kütüphaneler:
 Selenium WebDriver
