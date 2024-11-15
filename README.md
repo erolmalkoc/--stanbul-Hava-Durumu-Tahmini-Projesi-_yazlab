@@ -34,6 +34,10 @@ Bu grafikler, verinin geçmişteki davranışlarını anlamamıza ve gelecekteki
 ## 4. Geliştirilen Zaman serisi Grafik
 
 ![zamanserisigrafik](https://github.com/user-attachments/assets/03bb45a7-e29e-4561-b5d4-2044ddb5ac71)
+İstanbul için bu grafiklerde görülen döngüsel yapı, şehrin dört mevsimi belirgin olarak yaşadığını ve sıcaklıkların mevsimlere göre düzenli bir şekilde değiştiğini gösteriyor.
+Özellikle yaz aylarında sıcaklıklar yüksek, kış aylarında ise oldukça düşük seyretmekte.
+Bu grafikteki düzenli döngü, İstanbul’un ikliminin yıllar arasında çok büyük bir değişiklik göstermediğini ve sıcaklıkların yıllık bazda tutarlı bir şekilde tekrar ettiğini işaret ediyor.
+
 
 
 ## 5.Kaynakça
